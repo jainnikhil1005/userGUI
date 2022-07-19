@@ -121,7 +121,7 @@ export default function App(){
   }
 
   return (
-    <div  style={{backgroundColor: 124191}}>
+    <div  style={{backgroundColor: "lightblue"}}>
       
       <h1>NOKIA</h1>
 
